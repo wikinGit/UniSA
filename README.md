@@ -1,5 +1,4 @@
-# UniSA
-#
+# Warren_Ikin@UniSA
 # File: waTemp.py
 # Author: Warren Ikin
 # Email Id: ikiwy001@mymail.unisa.edu.au
