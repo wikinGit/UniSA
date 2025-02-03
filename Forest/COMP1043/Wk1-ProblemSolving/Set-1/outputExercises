@@ -1,0 +1,74 @@
+# A~>
+number1 = 0
+number2 = 7
+number3 = 2
+number1 = number2 + number3
+number3 = 9
+number1 = number3 - number2
+number2 = 7 * number1 + 6
+print(number1)
+print(number2)
+print(number3)
+
+# B~>
+number1 = 2
+number2 = 7
+number3 = 3
+result = number1 * number2
+print(result)
+result = number3 * number2
+print(result)
+
+# C~>
+number1 = 1
+number2 = 2
+number3 = 3
+number1 = number1 + 2
+number1 = number1 + number2
+number1 = number1 + number3
+print(number1)
+
+# D~>
+number1 = 5
+number2 = 6
+number3 = 7
+result = 0
+number3 = number2 / 3
+number2 = number1 * number2
+number1 = number1 + 2
+print(number1, number2, number3)
+
+# E~>
+a = 1
+b = 4
+a = b
+b = 3
+print('a = ', a, 'b = ', b)
+
+# F~>
+a = 7
+b = 3
+print('a = ', a, 'b = ', b, 'a / b = ', a / b, 'a // b = ', a // b, 'a % b = ', a % b)
+
+# G~>
+a = 7.0
+b = 3.0
+print('a = ', a, 'b = ', b, 'a / b = ', a / b, 'a // b = ', a // b, 'a % b = ', a % b)
+
+# H~>
+a = 7
+b = 3.0
+print('a = ', a, 'b = ', b, 'a / b = ', a / b, 'a // b = ', a // b, 'a % b = ', a % b)
+
+# I~>
+a = 7
+b = 3
+a += 1
+b += a
+print('a = ', a, 'b = ', b)
+
+# J~>
+a = 4 + 3 * 4 - 1
+b = (4 + 3) * (4 - 1)
+print('a = ', a, 'b = ', b)
+

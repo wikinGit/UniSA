@@ -1,0 +1,4 @@
+"Hello World" in C++ (Qt)
+#include <QApplication>
+#include <QLabel>
+

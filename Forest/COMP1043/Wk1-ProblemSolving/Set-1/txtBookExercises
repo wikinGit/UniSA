@@ -1,0 +1,39 @@
+3. Create a file in order to complete this exercise (ask your online tutor if you are having problems doing so). Write Python statements that (Modified: Gaddis, Tony. Algorithm Workbench, Chapter 2):
+
+Prompts the user to enter his or her favourite colour and assigns the user's input to a variable named colour. Display an appropriate message to the screen, for example: 'That's a lovely colour!', etc.
+Prompts the user to enter his or her favourite football team and assigns the user’s input to a variable named team. Display an appropriate message to the screen, for example: 'That's my favourite team too!', etc.
+Prompts the user to enter his or her favourite drink and assigns the user's input to a variable named drink. Display an appropriate message to the screen, for example: 'Better not have too many!', etc.
+4. Create a file in order to complete this exercise. Write a program that asks the user for three numbers as seen below (hint: you will need to use the input() and int() functions), adds the three numbers together and displays their total to the screen (hint: you will need to use the print() function).
+
+
+Your output should be presented as follows (user input appears in bold):
+
+Please enter number 1: 3
+Please enter number 2: 7
+Please enter number 3: 5
+The sum is: 15
+
+5. What output does the following code produce?  Check your answer by entering the code in a file and running the program.
+
+width = 5
+
+height = 10
+
+area = width * height
+
+print(area)
+
+width = 7
+
+print(area)
+
+area = width * height
+
+print(area)
+
+
+Congratulations! You have just created, saved and run your first Python programs! Well done! 🙂
+
+Please make sure you save and keep all of your work. Please ask your online tutor if you are having difficulties doing so.
+
+Please use the Week 1 discussion forum threads to share and discuss your answers to this week's workout. Please share screenshots or images of your code in the discussion forum, please do not share a Python file or copy-paste raw code from the editor of any IDE in the discussion forum.
